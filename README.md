@@ -7,7 +7,8 @@ The biggest challenges were not the features nor the design of the desired appli
 Mostly it was fun.
 I will be glad to explain any details in the technical interview.
 
-# To get it running
+## To get it running
 
-´npm install´
-´npm run dev´
+`npm install`
+
+`npm run dev`
